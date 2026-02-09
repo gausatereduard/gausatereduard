@@ -42,8 +42,8 @@ Front-end web developer from Moldova.
 		  <span>📆 Aug, 2021 - Present</span> <br/>
 		  <span>📍 Remote | Moscow, Russia</span>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-			  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
+        <img src="https://img.shields.io/badge/VueJS-4FC08D?logo=vuedotjs&logoColor=F0F0F0" />
+		<img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
         <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
         <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
 		  </p>
