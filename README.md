@@ -43,8 +43,8 @@ Front-end web developer from Moldova.
 		  <span>📍 Remote | Moscow, Russia</span>
       <p>
         <img src="https://img.shields.io/badge/VueJS-4FC08D?logo=vuedotjs&logoColor=F0F0F0" />
-		<img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
-        <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+		<img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=F0F0F0" />
+        <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=F0F0F0" />
         <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
 		  </p>
 	  </li>
@@ -53,9 +53,9 @@ Front-end web developer from Moldova.
 		  <span>📆 Aug, 2021 - Present</span> <br/>
 		  <span>📍 Remote | Moscow, Russia</span>
       <p>
-			  <img src="https://img.shields.io/badge/webpack-1c78c0?style=for-the-badge&logo=webpack&logoColor=white" />
-			  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
-        <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+		<img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=F0F0F0" />
+		<img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=F0F0F0" />
+        <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=F0F0F0" />
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
 		  </p>
 	  </li>
