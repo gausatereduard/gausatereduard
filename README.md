@@ -9,8 +9,8 @@ Front-end web developer from Moldova.
 
 ![Russian](https://img.shields.io/badge/Russian-Native-11ae00?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-B1-blue?style=for-the-badge)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-c1-11ae00?style=for-the-badge)
-![Romanian](https://img.shields.io/badge/Romanian-a1-darkred?style=for-the-badge)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-C1-11ae00?style=for-the-badge)
+![Romanian](https://img.shields.io/badge/Romanian-A1-darkred?style=for-the-badge)
 
 ---
 
